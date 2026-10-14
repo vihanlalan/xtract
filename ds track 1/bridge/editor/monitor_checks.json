@@ -1,0 +1,35 @@
+{
+  "media_fields": {
+    "left": "(head_u + 32) / 64",
+    "right": "(head_v + 1) / 2"
+  },
+  "direct_monitor_checks": [
+    {
+      "media": "6f19917a7d3a",
+      "left_field": "3946753/21663392",
+      "right_field": "616981/1353962"
+    },
+    {
+      "media": "bd99339ee9cd",
+      "left_field": "2265953/5567392",
+      "right_field": "226741/347962"
+    }
+  ],
+  "editor_checks": [
+    {
+      "bottom": "1/4",
+      "top": "3/4",
+      "preview_inspector": "1/2"
+    },
+    {
+      "bottom": "3/4",
+      "top": "1/4",
+      "preview_inspector": "1/2"
+    },
+    {
+      "bottom": "2/5",
+      "top": "2/5",
+      "preview_inspector": "0"
+    }
+  ]
+}

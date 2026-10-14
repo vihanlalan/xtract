@@ -1,0 +1,4 @@
+head_u,head_v,z_re,z_im,display_re,display_im
+3,0,1/2,0,-1/3,0
+12,0,2,0,1/3,0
+6,1/5,1,1,1/5,2/5

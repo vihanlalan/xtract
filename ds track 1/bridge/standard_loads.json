@@ -1,0 +1,10 @@
+{
+  "provenance": "software-fixture calibration",
+  "number_format": "exact rational",
+  "head_units": "response_head coordinate units",
+  "z_units": "normalized impedance",
+  "display_units": "dimensionless",
+  "head_to_z_family": "real affine",
+  "z_to_display_family": "nondegenerate complex fractional-linear",
+  "contact_carrier": "Read head travel is positive display real coordinate; coincident contact centres are not used."
+}

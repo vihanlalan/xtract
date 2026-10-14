@@ -1,0 +1,27 @@
+{
+  "post": "/api/desk",
+  "stages": [
+    {
+      "id": "A",
+      "expects": "the password recovered from the public evidence",
+      "opens": "capsules/A.json",
+      "packet": "production records"
+    },
+    {
+      "id": "B",
+      "expects": "the completed transfer set as JSON",
+      "opens": "capsules/B.json",
+      "packet": "record archive"
+    },
+    {
+      "id": "C",
+      "expects": "the reconstructed original source book as file text or JSON",
+      "opens": "capsules/C.json",
+      "packet": "destination"
+    }
+  ],
+  "request": "{stage, answer, session?} as JSON; a session or team field carries the code after stage A",
+  "key_format": "64 lowercase hexadecimal characters, for open_capsule.py --key",
+  "session": "the code returned with the first key authorizes the room and later desk stages; send it as the X-Session-Code header, the session/team field, or the session/team query parameter",
+  "answer_details": "each opened packet carries a desk_*.json note describing its stage's answer shape"
+}

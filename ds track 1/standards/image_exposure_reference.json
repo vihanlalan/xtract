@@ -1,0 +1,594 @@
+[
+  {
+    "exposure": "C11",
+    "opening_gazes": {
+      "Ada": "C",
+      "Bea": "C",
+      "Cora": "C",
+      "Dev": "C",
+      "Eli": "C",
+      "Faye": "C",
+      "Gia": "C",
+      "Hal": "C",
+      "Ivo": "C",
+      "Jae": "C",
+      "Kit": "C",
+      "Luz": "C"
+    },
+    "cards": [
+      null,
+      "L",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "target": "Bea",
+    "token": 0,
+    "volume": 1,
+    "native_shutter_cycle": {
+      "armed_counter": "137000",
+      "samples": [
+        {
+          "counter": "137000",
+          "angle_degrees": "45"
+        },
+        {
+          "counter": "187100",
+          "angle_degrees": "45"
+        }
+      ]
+    },
+    "known_image_mount_pixels": [
+      [
+        1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1
+      ]
+    ],
+    "receiver_before_pixels": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "receiver_after_pixels": [
+      [
+        1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1
+      ]
+    ],
+    "observed_accepted_volume": 1,
+    "observed_exposure_counter_increment": 1,
+    "clear_readback_after_exposure": {
+      "Ada": "C",
+      "Bea": "L",
+      "Cora": "C",
+      "Dev": "C",
+      "Eli": "C",
+      "Faye": "C",
+      "Gia": "C",
+      "Hal": "C",
+      "Ivo": "C",
+      "Jae": "C",
+      "Kit": "C",
+      "Luz": "C"
+    }
+  },
+  {
+    "exposure": "C27",
+    "opening_gazes": {
+      "Ada": "C",
+      "Bea": "C",
+      "Cora": "C",
+      "Dev": "C",
+      "Eli": "C",
+      "Faye": "C",
+      "Gia": "C",
+      "Hal": "C",
+      "Ivo": "C",
+      "Jae": "C",
+      "Kit": "C",
+      "Luz": "C"
+    },
+    "cards": [
+      null,
+      "L",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "target": "Bea",
+    "token": 0,
+    "volume": 1,
+    "native_shutter_cycle": {
+      "armed_counter": "137000",
+      "samples": [
+        {
+          "counter": "137000",
+          "angle_degrees": "0"
+        },
+        {
+          "counter": "157040",
+          "angle_degrees": "287/50"
+        },
+        {
+          "counter": "162050",
+          "angle_degrees": "90"
+        },
+        {
+          "counter": "172070",
+          "angle_degrees": "2392/25"
+        },
+        {
+          "counter": "187100",
+          "angle_degrees": "45"
+        }
+      ]
+    },
+    "known_image_mount_pixels": [
+      [
+        1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1
+      ]
+    ],
+    "receiver_before_pixels": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "receiver_after_pixels": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "observed_accepted_volume": 1,
+    "observed_exposure_counter_increment": 0,
+    "clear_readback_after_exposure": {
+      "Ada": "C",
+      "Bea": "L",
+      "Cora": "C",
+      "Dev": "C",
+      "Eli": "C",
+      "Faye": "C",
+      "Gia": "C",
+      "Hal": "C",
+      "Ivo": "C",
+      "Jae": "C",
+      "Kit": "C",
+      "Luz": "C"
+    }
+  },
+  {
+    "exposure": "C38",
+    "opening_gazes": {
+      "Ada": "C",
+      "Bea": "C",
+      "Cora": "C",
+      "Dev": "C",
+      "Eli": "C",
+      "Faye": "C",
+      "Gia": "C",
+      "Hal": "C",
+      "Ivo": "C",
+      "Jae": "C",
+      "Kit": "C",
+      "Luz": "C"
+    },
+    "cards": [
+      null,
+      "L",
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "target": "Bea",
+    "token": 0,
+    "volume": 1,
+    "native_shutter_cycle": {
+      "armed_counter": "137000",
+      "samples": [
+        {
+          "counter": "137000",
+          "angle_degrees": "45"
+        },
+        {
+          "counter": "146519",
+          "angle_degrees": "3"
+        },
+        {
+          "counter": "147521",
+          "angle_degrees": "13/5"
+        },
+        {
+          "counter": "166559",
+          "angle_degrees": "3"
+        },
+        {
+          "counter": "167561",
+          "angle_degrees": "13/5"
+        },
+        {
+          "counter": "187100",
+          "angle_degrees": "45"
+        }
+      ]
+    },
+    "known_image_mount_pixels": [
+      [
+        1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1
+      ]
+    ],
+    "receiver_before_pixels": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "receiver_after_pixels": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "observed_accepted_volume": 0,
+    "observed_exposure_counter_increment": 0,
+    "clear_readback_after_exposure": {
+      "Ada": "C",
+      "Bea": "C",
+      "Cora": "C",
+      "Dev": "C",
+      "Eli": "C",
+      "Faye": "C",
+      "Gia": "C",
+      "Hal": "C",
+      "Ivo": "C",
+      "Jae": "C",
+      "Kit": "C",
+      "Luz": "C"
+    }
+  },
+  {
+    "exposure": "C49",
+    "opening_gazes": {
+      "Ada": "C",
+      "Bea": "C",
+      "Cora": "C",
+      "Dev": "C",
+      "Eli": "C",
+      "Faye": "C",
+      "Gia": "C",
+      "Hal": "C",
+      "Ivo": "C",
+      "Jae": "C",
+      "Kit": "C",
+      "Luz": "C"
+    },
+    "cards": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "target": "Bea",
+    "token": 0,
+    "volume": 1,
+    "native_shutter_cycle": {
+      "armed_counter": "137000",
+      "samples": [
+        {
+          "counter": "137000",
+          "angle_degrees": "45"
+        },
+        {
+          "counter": "187100",
+          "angle_degrees": "45"
+        }
+      ]
+    },
+    "known_image_mount_pixels": [
+      [
+        1,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        1,
+        1
+      ]
+    ],
+    "receiver_before_pixels": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "receiver_after_pixels": [
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "observed_accepted_volume": 0,
+    "observed_exposure_counter_increment": 0,
+    "clear_readback_after_exposure": {
+      "Ada": "C",
+      "Bea": "C",
+      "Cora": "C",
+      "Dev": "C",
+      "Eli": "C",
+      "Faye": "C",
+      "Gia": "C",
+      "Hal": "C",
+      "Ivo": "C",
+      "Jae": "C",
+      "Kit": "C",
+      "Luz": "C"
+    }
+  }
+]

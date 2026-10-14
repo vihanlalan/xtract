@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large binary / archive files exceeding GitHub recommendations
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Huge raw tabular dumps (>10MB)
+abyssal_sonar_records_with_hidden_game_tokens.csv
+sonar_clustered_k8.csv
+vault_readings.csv
+night_readouts.csv
+ledger*.csv
+
+# Environments & IDEs
+.env
+.venv
+env/
+venv/
+.vscode/
+.idea/
+.DS_Store

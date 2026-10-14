@@ -1,0 +1,922 @@
+{
+  "application": "Flatbed Compare",
+  "document": "Bridge carrier review",
+  "media_status": "source media offline; rendered review proofs retained",
+  "color_settings": {
+    "working_space": "linear gray",
+    "range": [
+      0,
+      1
+    ],
+    "alpha": "opaque",
+    "resampling": "none",
+    "dither": "off"
+  },
+  "export_settings": {
+    "pixel_inspector": "pixel_inspector.csv",
+    "numeric_convention": "exact rational software fixture; inspector precedes 16-bit preview quantization",
+    "preview": "proofs.png"
+  },
+  "frames": [
+    {
+      "export": "comparison-000",
+      "layers_bottom_to_top": [
+        {
+          "media": "bb3c1869354e",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "1d88fece0d47",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-001",
+      "layers_bottom_to_top": [
+        {
+          "media": "78cb4c32f60e",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "bd99339ee9cd",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-002",
+      "layers_bottom_to_top": [
+        {
+          "media": "bb3c1869354e",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "fd3c22859517",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-003",
+      "layers_bottom_to_top": [
+        {
+          "media": "89c6f6c76627",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "39ad3e477364",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-004",
+      "layers_bottom_to_top": [
+        {
+          "media": "fd3c22859517",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "077fdd2d96d9",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-005",
+      "layers_bottom_to_top": [
+        {
+          "media": "4ee573ff278f",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "78cb4c32f60e",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-006",
+      "layers_bottom_to_top": [
+        {
+          "media": "9938c19fa76a",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "78cb4c32f60e",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-007",
+      "layers_bottom_to_top": [
+        {
+          "media": "db72d8297306",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "9c75f025f4e8",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-008",
+      "layers_bottom_to_top": [
+        {
+          "media": "e22daa1413d0",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "43e8fa2f7b98",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-009",
+      "layers_bottom_to_top": [
+        {
+          "media": "4ee573ff278f",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "6a7b07d8140b",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-010",
+      "layers_bottom_to_top": [
+        {
+          "media": "0ece218ebc11",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "c4f1c23bf2da",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-011",
+      "layers_bottom_to_top": [
+        {
+          "media": "c12d4a05856d",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "e8db77d84367",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-012",
+      "layers_bottom_to_top": [
+        {
+          "media": "f18462b4c8a0",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "8576b5e0ee6c",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-013",
+      "layers_bottom_to_top": [
+        {
+          "media": "3500e4638afb",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "030f27ea68e7",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-014",
+      "layers_bottom_to_top": [
+        {
+          "media": "d66c8af54828",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "84efe651e43f",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-015",
+      "layers_bottom_to_top": [
+        {
+          "media": "db72d8297306",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "d84c9085b252",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-016",
+      "layers_bottom_to_top": [
+        {
+          "media": "4783b59f88d5",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "6279f9e6f6a6",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-017",
+      "layers_bottom_to_top": [
+        {
+          "media": "0ece218ebc11",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "84efe651e43f",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-018",
+      "layers_bottom_to_top": [
+        {
+          "media": "d8c49c334653",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "6aef5a5585fc",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-019",
+      "layers_bottom_to_top": [
+        {
+          "media": "84efe651e43f",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "f18462b4c8a0",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-020",
+      "layers_bottom_to_top": [
+        {
+          "media": "e3647bba5119",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "cfb5ba70050f",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-021",
+      "layers_bottom_to_top": [
+        {
+          "media": "9c75f025f4e8",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "7f621c988953",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-022",
+      "layers_bottom_to_top": [
+        {
+          "media": "d66c8af54828",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "077fdd2d96d9",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-023",
+      "layers_bottom_to_top": [
+        {
+          "media": "077fdd2d96d9",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "89c6f6c76627",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-024",
+      "layers_bottom_to_top": [
+        {
+          "media": "6f19917a7d3a",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "3500e4638afb",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-025",
+      "layers_bottom_to_top": [
+        {
+          "media": "c559e8dc6b52",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "c4f1c23bf2da",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-026",
+      "layers_bottom_to_top": [
+        {
+          "media": "dfef6f90d32b",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "c4f1c23bf2da",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-027",
+      "layers_bottom_to_top": [
+        {
+          "media": "e3647bba5119",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "9938c19fa76a",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-028",
+      "layers_bottom_to_top": [
+        {
+          "media": "56b7635cfb04",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "43e8fa2f7b98",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-029",
+      "layers_bottom_to_top": [
+        {
+          "media": "ad634e3b8941",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "8576b5e0ee6c",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-030",
+      "layers_bottom_to_top": [
+        {
+          "media": "e3647bba5119",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "1d88fece0d47",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-031",
+      "layers_bottom_to_top": [
+        {
+          "media": "4783b59f88d5",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "79d6c024f095",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-032",
+      "layers_bottom_to_top": [
+        {
+          "media": "6f19917a7d3a",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "e22daa1413d0",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-033",
+      "layers_bottom_to_top": [
+        {
+          "media": "fd3c22859517",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "593bcd98bb8b",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-034",
+      "layers_bottom_to_top": [
+        {
+          "media": "c559e8dc6b52",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "d84c9085b252",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-035",
+      "layers_bottom_to_top": [
+        {
+          "media": "c12d4a05856d",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "79d6c024f095",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-036",
+      "layers_bottom_to_top": [
+        {
+          "media": "ad634e3b8941",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "cfb5ba70050f",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-037",
+      "layers_bottom_to_top": [
+        {
+          "media": "593bcd98bb8b",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "1d88fece0d47",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-038",
+      "layers_bottom_to_top": [
+        {
+          "media": "030f27ea68e7",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "e22daa1413d0",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-039",
+      "layers_bottom_to_top": [
+        {
+          "media": "e8db77d84367",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "9938c19fa76a",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-040",
+      "layers_bottom_to_top": [
+        {
+          "media": "6a7b07d8140b",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "bd99339ee9cd",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-041",
+      "layers_bottom_to_top": [
+        {
+          "media": "030f27ea68e7",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "8576b5e0ee6c",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-042",
+      "layers_bottom_to_top": [
+        {
+          "media": "89c6f6c76627",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "3500e4638afb",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-043",
+      "layers_bottom_to_top": [
+        {
+          "media": "e8db77d84367",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "39ad3e477364",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-044",
+      "layers_bottom_to_top": [
+        {
+          "media": "d66c8af54828",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "bb3c1869354e",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-045",
+      "layers_bottom_to_top": [
+        {
+          "media": "6aef5a5585fc",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "6279f9e6f6a6",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-046",
+      "layers_bottom_to_top": [
+        {
+          "media": "ad634e3b8941",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "6aef5a5585fc",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-047",
+      "layers_bottom_to_top": [
+        {
+          "media": "c12d4a05856d",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "d8c49c334653",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-048",
+      "layers_bottom_to_top": [
+        {
+          "media": "dfef6f90d32b",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "4ee573ff278f",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-049",
+      "layers_bottom_to_top": [
+        {
+          "media": "f18462b4c8a0",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "dfef6f90d32b",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-050",
+      "layers_bottom_to_top": [
+        {
+          "media": "56b7635cfb04",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "4783b59f88d5",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-051",
+      "layers_bottom_to_top": [
+        {
+          "media": "d84c9085b252",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "cfb5ba70050f",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-052",
+      "layers_bottom_to_top": [
+        {
+          "media": "56b7635cfb04",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "9c75f025f4e8",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-053",
+      "layers_bottom_to_top": [
+        {
+          "media": "db72d8297306",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "6a7b07d8140b",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-054",
+      "layers_bottom_to_top": [
+        {
+          "media": "79d6c024f095",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "7f621c988953",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-055",
+      "layers_bottom_to_top": [
+        {
+          "media": "43e8fa2f7b98",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "d8c49c334653",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-056",
+      "layers_bottom_to_top": [
+        {
+          "media": "c559e8dc6b52",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "39ad3e477364",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-057",
+      "layers_bottom_to_top": [
+        {
+          "media": "6f19917a7d3a",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "6279f9e6f6a6",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-058",
+      "layers_bottom_to_top": [
+        {
+          "media": "593bcd98bb8b",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "7f621c988953",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    },
+    {
+      "export": "comparison-059",
+      "layers_bottom_to_top": [
+        {
+          "media": "0ece218ebc11",
+          "opacity": 1,
+          "blend_mode": "normal"
+        },
+        {
+          "media": "bd99339ee9cd",
+          "opacity": 1,
+          "blend_mode": "difference"
+        }
+      ]
+    }
+  ]
+}

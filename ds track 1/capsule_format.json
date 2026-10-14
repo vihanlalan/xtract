@@ -1,0 +1,19 @@
+{
+  "format": "XTRACT-V8",
+  "envelope_fields": [
+    "format",
+    "id",
+    "algorithm",
+    "nonce",
+    "ciphertext"
+  ],
+  "algorithm": "AES-256-GCM",
+  "nonce": "12 fresh random bytes, encoded as standard Base64",
+  "ciphertext": "Base64 of AES-GCM ciphertext followed by its 16-byte authentication tag",
+  "key": "A 32-byte AES-256 key issued by the desk as 64 lowercase hexadecimal characters. Keys are not derivable from capsule contents or submitted answers; the desk returns the key for each packet when the corresponding answer checks out.",
+  "associated_data": "Canonical ASCII JSON of {\"format\":\"XTRACT-V8\",\"id\":capsule_id,\"algorithm\":\"AES-256-GCM\"}, using sorted object keys, compact separators, ensure_ascii=true and no trailing newline",
+  "plaintext": "ZIP of relative ordinary files. Opened files merge into the output directory; existing files are never overwritten.",
+  "decoder": "open_capsule.py; Python 3 and cryptography are required",
+  "selftest": "selftest/capsule.json opens with the key printed in selftest/key.txt. selftest/expected.json gives the decoded file digests.",
+  "note": "XTRACT-V8 names the capsule envelope format, not a release version."
+}

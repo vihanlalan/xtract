@@ -1,0 +1,17 @@
+[
+  {
+    "trace": "B1",
+    "native_response": "unknown real quadratic balance response",
+    "signal": "signed balance units; the zero response locus is the trace"
+  },
+  {
+    "trace": "B2",
+    "native_response": "unknown real quadratic balance response",
+    "signal": "signed balance units; the zero response locus is the trace"
+  },
+  {
+    "trace": "B3",
+    "native_response": "unknown real quadratic balance response",
+    "signal": "signed balance units; the zero response locus is the trace"
+  }
+]
